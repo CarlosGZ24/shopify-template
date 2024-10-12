@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dawn
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
@@ -97,3 +98,7 @@ Ensure that you follow the list of [theme store requirements](https://shopify.de
 ## License
 
 Copyright (c) 2021-present Shopify Inc. See [LICENSE](/LICENSE.md) for further details.
+=======
+# shopify-template
+Developing a Shopify theme from scratch
+>>>>>>> 22da044916445fe40907c45a6d2398006c1f94c7
