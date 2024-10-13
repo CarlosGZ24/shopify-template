@@ -1,0 +1,10 @@
+{
+  "sections": {
+    "slider-banner": {
+      "type": "custom-slider"
+    }
+  },
+  "order": [
+    "slider-banner"
+  ]
+}
